@@ -30,5 +30,6 @@
             "type": "vcs",
             "url": "https://github.com/mhayajneh/yii2-ckeditor5-word.git"
         }
-    ]
+    ],
+    "minimum-stability": "dev"
 }
