@@ -23,5 +23,12 @@
         "psr-4": {
             "mhayajneh\\ckeditor5\\": ""
         }
-    }
+    },
+    "repositories": [
+        {
+            "packagist": false,
+            "type": "vcs",
+            "url": "https://github.com/mhayajneh/yii2-ckeditor5-word.git"
+        }
+    ]
 }
