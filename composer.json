@@ -1,13 +1,13 @@
 {
-    "name": "sangroya/yii2-ckeditor5",
+    "name": "mhayajneh/yii2-ckeditor5-word",
     "description": "CKEditor for Yii",
     "type": "yii2-extension",
     "keywords": ["yii2","extension"," ckeditor"," ckeditor5"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Parveen Sangroya",
-            "email": "parveen0013@gmail.com"
+            "name": "Mohammad Alhayajneh",
+            "email": "mohammad.alhayajneh98@gmail.com"
         }
     ],
     "require": {
