@@ -12,7 +12,7 @@
     ],
     "require": {
         "yiisoft/yii2": "~2.0.0"
-        
+
     },
     "extra": {
         "npm": {
@@ -23,13 +23,5 @@
         "psr-4": {
             "mhayajneh\\ckeditor5\\": ""
         }
-    },
-    "repositories": [
-        {
-            "packagist": false,
-            "type": "vcs",
-            "url": "https://github.com/mhayajneh/yii2-ckeditor5-word.git"
-        }
-    ],
-    "minimum-stability": "dev"
+    }
 }
