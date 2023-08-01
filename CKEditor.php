@@ -1,6 +1,6 @@
 <?php
 
-namespace sangroya\ckeditor5;
+namespace mhayajneh\ckeditor5;
 
 use yii\helpers\Html;
 use yii\helpers\Json;
@@ -9,8 +9,8 @@ use yii\widgets\InputWidget;
 
 /**
  * CKEditor renders a CKEditor5 js plugin for classic editing.
- * @author Parveen Sangroya <parveen0013@gmail.com>
- * @package sangroya\ckeditor5
+ * @author Mohammad Alhayajneh <mohammad.alhayajneh98@gmail.com>
+ * @package mhayajneh/yii2-ckeditor5-word
  */
 class CKEditor extends InputWidget
 {

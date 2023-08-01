@@ -1,4 +1,4 @@
-yii2-ckeditor5
+yii2-ckeditor5-word
 ==============
 CKEditor for Yii with static build (https://docs.ckeditor.com/ckeditor5/latest/builds/)
 
@@ -10,13 +10,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist sangroya/yii2-ckeditor5 "*"
+php composer.phar require --prefer-dist mhayajneh/yii2-ckeditor5-word "*"
 ```
 
 or add
 
 ```
-"sangroya/yii2-ckeditor5": "*"
+"mhayajneh/yii2-ckeditor5-word": "*"
 ```
 
 to the require section of your `composer.json` file.

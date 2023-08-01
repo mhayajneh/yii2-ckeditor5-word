@@ -1,10 +1,10 @@
 <?php
-namespace sangroya\ckeditor5;
+namespace mhayajneh\ckeditor5;
 use yii\web\AssetBundle;
 
 class Assets extends AssetBundle
 {
-    public $sourcePath = '@vendor/sangroya/yii2-ckeditor5/assets/';
+    public $sourcePath = '@vendor/mhayajneh/yii2-ckeditor5-word/assets/';
     public $css = [
     ];
 
